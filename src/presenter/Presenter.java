@@ -42,5 +42,5 @@ public class Presenter {
     public void getInfo(String personStr){
         service.getInfo(personStr);
     }
-
+//
 }
